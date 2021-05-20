@@ -1,4 +1,4 @@
-
+-- Snake by Farha Machiwala
 -- push = require 'push' 
 
 require 'game'
