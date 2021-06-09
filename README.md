@@ -10,4 +10,4 @@ You can move the snake using the arrow keys
 
 The snake can move either up, down, left or right
 
-* Note: you will need Love2d installed on your device. You need to drag this folder with the code to the Love2d application for the game to run. *
+*Note: you will need Love2d installed on your device. You need to drag this folder with the code to the Love2d application for the game to run.*
